@@ -1,1 +1,2 @@
-VimCrypt~03!Œ¬o"ÇW¦°¼ ©c`NL@7¤¶»6ý•Ú™z©©Éi{ýRÅuå–hÿ	¾£
+#!/bin/bash
+gcc -o cisfun $CFILE

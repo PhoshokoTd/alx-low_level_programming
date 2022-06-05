@@ -1,9 +1,11 @@
 #include <stdio.h>
 
- /**
-  * main - Prints the alphabets in lowercases
-  * Return: Always 0 (success)
-  */
+/**
+ * main - prints the alphabet in lowercase, followed by a new line.
+ * You can only use putchar twice in your code
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char letter;

@@ -1,7 +1,7 @@
 #ifndef FILE_CALC
 #define FILE_CALC
 
-/*
+/**
  * struct op - Structure op
  * @op: operator
  * @f: function
